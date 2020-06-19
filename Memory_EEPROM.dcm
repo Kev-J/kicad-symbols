@@ -6,6 +6,12 @@ K I2C Serial EEPROM
 F http://ww1.microchip.com/downloads/en/DeviceDoc/21709J.pdf
 $ENDCMP
 #
+$CMP 24AA64
+D I2C Serial EEPROM, 64Kb, SOT-23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/devicedoc/21189t.pdf
+$ENDCMP
+#
 $CMP 24LC00
 D I2C Serial EEPROM, 128 Bits, DIP-8/SOIC-8/TSSOP-8/DFN-8
 K I2C Serial EEPROM
