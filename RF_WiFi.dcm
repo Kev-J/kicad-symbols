@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATWILC1000
+D WiFi IEEE802.11b/g/n 2.4GHz SPI, SDIO host interfaces
+K WiFi IEEE802.11 b/g/n
+F http://www.hi-flying.com/index.php?http://ww1.microchip.com/downloads/en/DeviceDoc/ATWILC1000-IEEE-802.11-bgn-Link-Controller-Module-Data-Sheet-DS70005326C.pdf
+$ENDCMP
+#
 $CMP HF-A11-SMT
 D WiFi IEEE802.11b/g/n with Ethernet Module, UART, GPIO
 K WiFi IEEE802.11 b/g/n
